@@ -31,8 +31,8 @@ pip install pandas matplotlib seaborn
      git clone https://github.com/yourusername/covid-analysis.git
      cd covid-analysis
   2. Download the dataset
-     The full dataset is available at Kaggle (not included here due to size):
-     🔗 COVID-19 Dataset on Kaggle
+     The full dataset is available at Kaggle (not included here due to size):  
+🔗 [COVID-19 Dataset on Kaggle](https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset)
   3. Place the owid-covid-data.csv file in the same directory as the notebook.
   4. Open and run the notebook:
      ```bash
